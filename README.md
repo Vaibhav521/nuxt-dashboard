@@ -1,3 +1,20 @@
+# Dahboard SS
+
+2 pages 
+dashboard and ticket 
+
+ticket page have search and filter , ui chnages form table to card in modile .
+
+![image](https://github.com/user-attachments/assets/d34c65ec-d8db-4d00-af27-7d6208af3c28)
+![image](https://github.com/user-attachments/assets/afc703cb-4e7d-4601-aeb1-7915a3785c0e)
+![image](https://github.com/user-attachments/assets/fd857767-9a54-4e6c-8b96-bbf36ff4658e)
+![image](https://github.com/user-attachments/assets/67a982fd-7ec7-46ef-9271-451ec5b96ec9)
+
+
+
+
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
