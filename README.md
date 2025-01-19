@@ -3,7 +3,7 @@
 2 pages 
 dashboard and ticket 
 
-ticket page have search and filter , ui chnages form table to card in modile .
+ticket page have search and filter , ui chnages form table to card in mobile .
 
 ![image](https://github.com/user-attachments/assets/d34c65ec-d8db-4d00-af27-7d6208af3c28)
 ![image](https://github.com/user-attachments/assets/afc703cb-4e7d-4601-aeb1-7915a3785c0e)
